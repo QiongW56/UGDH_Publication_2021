@@ -56,7 +56,7 @@ Dendrogram plot of the metabolomic dataset
 ## Figure 6C-E
 Metabolite levels
 UDP-Glc: BASIC mode - Phenylalanine IS; Lysine IS; Adenine IS <br/>
-UDP-GlcA: BASIC mode - Cysteine IS; Glutamine IS; Glutamic acid IS
+UDP-GlcA: BASIC mode - Cysteine IS; Glutamine IS; Glutamic acid IS <br/>
 Glycerophosphocholine: Acidic negative mode - Lysine IS.
 
 ## Figure 6F
