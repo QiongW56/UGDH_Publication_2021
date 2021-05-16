@@ -66,7 +66,22 @@ Procedures:<br/>
 “BarPlot-DoxPlot-GO-Annotation-2021.02.08.R”
 
 ## Figure 4D-E
-Reactome pathway analysis
+Reactome pathway analysis<br/>
+Reactome Version:<br/>
+Reactome Database Release: 75<br/>
+Pathway Browser Version: 3.7<br/>
+Date: 2021.02.09<br/>
+
+Procedures:<br/>
+1. Go to Perseus Output data: 
+“C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5-2 ProteomicPaper-UGDH\Perseus\”
+“PerseusOutputData-NTNU-ThreeEMT-1.6.14.0-2021.01.11.xlsx”
+2. Find genes with significance "+" for each EMT model.
+3. Copy these genes into Reactome for pathway enrichment.
+4. Export the output .csv file
+5. Use R file for plotting: <br/>
+“C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5-2 ProteomicPaper-UGDH\Rfiles\”<br/>
+“TreePlot_Reactome_Pathway_Enrichment_2021.02.09.R”<br/>
 
 ## Figure 5A-D
 Consistent metabolic EMT markers - proteomics
