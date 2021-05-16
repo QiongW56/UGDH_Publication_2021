@@ -72,14 +72,14 @@ Patient survival analysis of UGDH <br/>
 Generated in https://kmplot.com/analysis/index.php?p=service&cancer=breast.
 
 ## Figure 7B-C
-Proliferation - siUGDH
+Proliferation - siUGDH (only one siRNA)
 
 ## Figure 7D-E
-Invasion - siUGDH <br/>
+Invasion - siUGDH (first siRNA) <br/>
 Generated in Excel and powerpoint.
 
 ## Figure 7F-G
-SNAI1 - siUGDH 
+SNAI1 - siUGDH (first siRNA)
 
 ## Figure 8A-B
 Generated in Excel and powerpoint.
