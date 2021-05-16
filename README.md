@@ -116,7 +116,7 @@ Patient survival analysis <br/>
 Generated in https://kmplot.com/analysis/index.php?p=service&cancer=breast.
 
 ## Supplementary figure 6D
-GPC level in D492HER2 <br/>
+GPC level changes with KD in D492HER2 <br/>
 Generated in Excel and powerpoint.
 
 ## Supplementary figure 6E-F
