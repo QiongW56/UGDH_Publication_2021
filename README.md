@@ -148,7 +148,8 @@ siRELA in D492M with the first siRNA
 Cell images
 
 ## Supplementary figure 2
-Scatter plot of the datasets consistency
+Scatter plot of the datasets consistency <br/>
+Dundee vs. NTNU (D492 vs. D492M)
 
 ## Supplementary figure 3
 Inconsistent EMT markers; http://dbemt.bioinfo-minzhao.org/
