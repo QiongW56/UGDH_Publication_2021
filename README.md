@@ -124,7 +124,7 @@ Invasion - siUGDH (second siRNA) <br/>
 Generated in Excel and powerpoint.
 
 ## Supplementary figure 6G-H
-SNAI1- siUGDH
+SNAI1- siUGDH (second siRNA)
 
 ## Supplementary figure 7A
 Generated in Excel and powerpoint.
