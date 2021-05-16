@@ -1,6 +1,7 @@
 # UGDH_Publication_2021
 A description of the figures in this "UGDH,2021" paper. <br/>
-For details: Proteomics_UGDH_2021_Manuscript_FigureLegends_V3.docx
+For details: <br/>
+Proteomics_UGDH_2021_Manuscript_FigureLegends_V3.docx
 
 ## Figure 1
 Study workflow and a summary of the three EMT breast cell models. <br/>
