@@ -54,7 +54,7 @@ PCA plot of the metabolomic dataset
 Dendrogram plot of the metabolomic dataset
 
 ## Figure 6C-E
-Metabolite levels
+Metabolite levels <br/>
 UDP-Glc: BASIC mode - Phenylalanine IS; Lysine IS; Adenine IS <br/>
 UDP-GlcA: BASIC mode - Cysteine IS; Glutamine IS; Glutamic acid IS <br/>
 Glycerophosphocholine: Acidic negative mode - Lysine IS.
@@ -75,7 +75,7 @@ Generated in https://kmplot.com/analysis/index.php?p=service&cancer=breast.
 Proliferation - siUGDH
 
 ## Figure 7D-E
-Invasion - siUGDH<br/>
+Invasion - siUGDH <br/>
 Generated in Excel and powerpoint.
 
 ## Figure 7F-G
