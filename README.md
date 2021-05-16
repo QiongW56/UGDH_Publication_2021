@@ -116,6 +116,12 @@ IPA analysis of the phosphoproteoimc datasets
 Patient survival analysis of UGDH <br/>
 Generated in https://kmplot.com/analysis/index.php?p=service&cancer=breast.
 
+Go to website: https://kmplot.com/analysis/index.php?p=service <br/>
+input gene UGDH<br/>
+Auto select best cutoff<br/>
+intrinsic subtype: basal<br/>
+
+
 ## Figure 7B-C
 Proliferation - siUGDH (only one siRNA)
 
