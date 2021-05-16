@@ -155,7 +155,21 @@ Dundee vs. NTNU (D492 vs. D492M)
 Inconsistent EMT markers; http://dbemt.bioinfo-minzhao.org/
 
 ## Supplementary figure 4
-GO annotation - CC and MF
+GO annotation - CC and MF<br/>
+
+DAVID Bioinformatics Resources 6.8<br/>
+Date: 2021.02.09<br/>
+
+Procedures: <br/>
+1. Go to Perseus Output data: <br/>
+“C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5-2 ProteomicPaper-UGDH\Perseus\”
+“PerseusOutputData-NTNU-ThreeEMT-1.6.14.0-2021.01.11.xlsx”
+2. Find genes with significance "+" for each EMT model.
+3. Copy these genes into DAVID for "Functional Annotation Chart" analysis, for GO-BP, GO-CC and GO-MF separately
+4. Export the output and copy the output .txt file into an Excel file.
+5. Use R file for plotting: <br/>
+“C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5-2 ProteomicPaper-UGDH\Rfiles”<br/>
+“BarPlot-DoxPlot-GO-Annotation-2021.02.08.R”<br/>
 
 ## Supplementary figure 5A
 KD efficiency of UGDH in the metabolomic study
