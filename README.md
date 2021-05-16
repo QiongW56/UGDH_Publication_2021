@@ -16,7 +16,8 @@ Dendrogram plot of the proteomic dataset
 RNA expression of CDH1 and CDH2
 
 ## Figure 2E-G
-Proteomic expression of the consistent changes in EMT
+Proteomic expression of the consistent changes in EMT<br/>
+http://dbemt.bioinfo-minzhao.org/
 
 ## Figure 2H
 Proteomic expression of the consistent changes in EMT- PKP3
@@ -99,7 +100,7 @@ Cell images
 Scatter plot of the datasets consistency
 
 ## Supplementary figure 3
-Inconsistent EMT markers
+Inconsistent EMT markers; http://dbemt.bioinfo-minzhao.org/
 
 ## Supplementary figure 4
 GO annotation - CC and MF
