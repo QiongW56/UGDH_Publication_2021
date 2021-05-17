@@ -48,7 +48,9 @@ Generated in Excel and powerpoint.
 Volcano plots of the proteomic datasets <br/>
 
 ## Figure 3F
-Heatmap of the consistent proteomic changes.
+Heatmap of the consistent proteomic changes.<br/>
+R version: 4.0.0
+ComplexHeatmap version: ComplexHeatmap_2.3.4 <br/>
 
 ## Figure 4A-C
 GO annotation - BP <br/>
