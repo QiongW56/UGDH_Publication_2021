@@ -49,7 +49,7 @@ Volcano plots of the proteomic datasets <br/>
 
 ## Figure 3F
 Heatmap of the consistent proteomic changes.<br/>
-R version: 4.0.0
+R version: 4.0.0 <br/>
 ComplexHeatmap version: ComplexHeatmap_2.3.4 <br/>
 
 ## Figure 4A-C
